@@ -1,0 +1,181 @@
+/* Basic Reset & Body Styling */
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Source Serif 4', serif;
+    line-height: 1.6;
+    background-color: #f8f8f8;
+    color: #333;
+}
+
+a {
+    color: #00695c; /* Teal shade */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Header Styling */
+header {
+    background-color: #424242; /* Dark Grey */
+    color: #fff;
+    padding: 1rem 2rem;
+    text-align: center;
+    border-bottom: 3px solid #00acc1; /* Cyan */
+}
+
+header h1 a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+header .tagline {
+    font-size: 1rem;
+    font-style: italic;
+    color: #ccc;
+    margin-top: -10px;
+}
+
+header nav ul {
+    list-style: none;
+    padding: 0;
+    margin-top: 1rem;
+}
+
+header nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+}
+
+header nav ul li a {
+    color: #fff;
+    font-weight: 700;
+}
+
+/* Main Content Area */
+main {
+    max-width: 900px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+/* Blog Post Frame */
+.blog-post-frame {
+    background-color: #fff;
+    padding: 2rem;
+    margin-bottom: 2rem;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+}
+
+.asimov-quote {
+    font-style: italic;
+    color: #555;
+    margin: 1.5rem 0;
+    padding-left: 1rem;
+    border-left: 3px solid #ccc;
+    font-size: 1.1em;
+}
+
+.asimov-quote footer {
+    font-style: normal;
+    font-size: 0.9em;
+    color: #777;
+    text-align: right;
+    margin-top: 0.5rem;
+}
+
+.blog-content-placeholder h2 {
+    color: #004d40; /* Dark Teal */
+    text-align: center;
+    margin-bottom: 1.5rem;
+}
+
+.blog-content-placeholder .final-question {
+    font-weight: 700;
+    text-align: center;
+    margin-top: 1.5rem;
+    font-size: 1.2em;
+}
+
+/* Sections Styling */
+#questions-sections {
+    margin-top: 2rem;
+}
+
+.question-section {
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    border-left-width: 5px; /* Emphasize left border */
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+
+.question-section h2 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    font-size: 1.6em;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+    padding-bottom: 0.5rem;
+}
+
+.question-section ul {
+    list-style: none;
+    padding: 0;
+}
+
+.question-section ul li {
+    margin-bottom: 0.8rem;
+}
+
+.question-section ul li a {
+    font-size: 1.1em;
+    font-weight: 400; /* Regular weight for links */
+}
+
+/* Color Coding */
+.color-basic {
+    background-color: #e0f7fa; /* Light Cyan */
+    border-left-color: #00acc1; /* Cyan */
+}
+.color-basic h2 { color: #006064; } /* Dark Cyan */
+
+.color-intermediate {
+    background-color: #fff9c4; /* Light Yellow */
+    border-left-color: #ffeb3b; /* Yellow */
+}
+.color-intermediate h2 { color: #f57f17; } /* Dark Yellow/Orange */
+
+.color-existential {
+    background-color: #ffcdd2; /* Light Red */
+    border-left-color: #f44336; /* Red */
+}
+.color-existential h2 { color: #b71c1c; } /* Dark Red */
+
+.color-contra {
+    background-color: #d1c4e9; /* Light Purple */
+    border-left-color: #673ab7; /* Deep Purple */
+}
+.color-contra h2 { color: #311b92; } /* Deeper Purple */
+
+.color-non-serious {
+    background-color: #c8e6c9; /* Light Green */
+    border-left-color: #4caf50; /* Green */
+}
+.color-non-serious h2 { color: #1b5e20; } /* Dark Green */
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 3rem;
+    padding: 1.5rem;
+    font-size: 0.9em;
+    color: #777;
+    border-top: 1px solid #eee;
+}
