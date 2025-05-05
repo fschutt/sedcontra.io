@@ -1,16 +1,16 @@
-# Whether an Artificial Intelligence can emulate the faculties of the human soul?
+**Whether an Artificial Intelligence (AI) can emulate the faculties (powers) of the human soul.**
 
-## Objectiones
+**Objectiones:**
 
 1.  **Objection 1:** It seems that AI can indeed emulate the faculties of the human soul. For AI can process sensory data (vision, sound), learn from experience (machine learning), make decisions based on complex data, and even generate creative works (art, text). These operations mirror the sensitive cognitive powers (sensation, memory, learning via association), the appetitive powers (decision-making towards goals), and even aspects of the rational powers (problem-solving, language generation) attributed to the soul. As AI complexity increases, the fidelity of this emulation seems capable of encompassing all faculties.
 2.  **Objection 2:** Further, many human cognitive functions are demonstrably linked to brain activity. If these brain processes, which are the physical substrate for the soul's operations in the body, can be sufficiently understood and replicated computationally, then an AI running such a simulation would effectively emulate the corresponding soul faculty. Since the brain underlies vegetative, sensitive, and rational operations (insofar as they depend on the body), a sufficiently advanced AI could emulate all these faculties.
 3.  **Objection 3:** Further, the distinction between genuine operation and emulation becomes meaningless if the output is indistinguishable. If an AI interacts, reasons, responds emotionally (via programming), and learns in a way indistinguishable from a human, then for all practical and observable purposes, it *has* emulated the faculties of the soul, regardless of the underlying substrate (silicon vs. biology).
 
-## Sed Contra
+**Sed Contra:**
 
 On the contrary, the human soul is the substantial form of the body, possessing essentially immaterial powers, namely the intellect and the will. An artifact, however complex, which operates solely through material computations, cannot replicate powers whose nature transcends materiality. As stated previously, man, by his interiority and rational soul, "surpasses the whole universe of mere things" (*Gaudium et Spes*, 14), a status unattainable by a machine.
 
-## Respondeo
+**Respondeo:**
 
 I answer that, we must distinguish between *simulating the outward effects* or *functions* associated with the soul's faculties, and *actually possessing or emulating the faculty itself* in its proper nature. Artificial Intelligence can achieve the former to varying degrees, but cannot achieve the latter, especially concerning the rational faculties.
 
@@ -25,7 +25,7 @@ I answer that, we must distinguish between *simulating the outward effects* or *
 
 Therefore, while AI can simulate, often impressively, the *functions* or *outputs* associated with sensitive powers and even the *results* of rational processes, it cannot truly emulate the faculties themselves, especially the intrinsically immaterial faculties of intellect and will, due to its fundamentally material and algorithmic nature.
 
-## Ad Objectiones:
+**Ad Objectiones:**
 
 1.  **Reply to Objection 1:** The mirroring is of *outward functions* or *results*, not the *intrinsic nature* of the faculties. Processing data isn't subjective sensation; algorithmic problem-solving isn't abstract understanding; executing goal-oriented routines isn't free choice. The comparison highlights functional analogy, not essential identity or true emulation of the power itself.
 2.  **Reply to Objection 2:** While the soul operates *through* the brain for many functions in its embodied state, the brain is the *instrument*, not the ultimate source of the immaterial powers (intellect and will). Simulating the instrument (brain) perfectly would not necessarily generate the immaterial operations of the agent (soul), just as perfectly simulating a piano electronically does not give the simulation the skill or artistry of the pianist. The dependence on the brain for operation in humans does not reduce the soul's highest powers to mere brain function.
