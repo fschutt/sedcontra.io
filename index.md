@@ -10,11 +10,11 @@ If you have a "good question" or a "gotcha", you can
 Please see [the rules](/rules) for Submission rules. Note that it 
 has to be an actual good question.
 
-* [Whether an Artificial Intelligence (AI) can emulate the faculties (powers) of the human soul?](/aisoul)
-* [Whether Charity constitutes a third faculty of the rational soul?](/charityfaculty)
-* [Whether "I think, therefore I am" is the most suitable foundation for all knowledge?](/cogitoergosum)
-* [Whether conscience is merely a construct of social surroundings?](/conscience)
-* [Whether humans are merely highly developed animals?](/humansanimals)
+* [Whether an Artificial Intelligence (AI) can emulate the faculties (powers) of the human soul?](./aisoul)
+* [Whether Charity constitutes a third faculty of the rational soul?](./charityfaculty)
+* [Whether "I think, therefore I am" is the most suitable foundation for all knowledge?](./cogitoergosum)
+* [Whether conscience is merely a construct of social surroundings?](./conscience)
+* [Whether humans are merely highly developed animals?](./humansanimals)
 
 © 2024 sedcontra.io - _Quaerite et Invenietis_ (Seek and Ye Shall Find)
 
